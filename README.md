@@ -20,5 +20,5 @@ Programming language that should be used:
 
 ---
 
-3. Leia um vetor inteiro de N posições, exiba a soma total e quantos valores pares ele possui.
+3. Leia um vetor inteiro de N posições, exiba a soma total e seus valores pares.
 * File name: `exemplo_3.c`
