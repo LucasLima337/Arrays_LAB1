@@ -3,7 +3,7 @@
 
 /*
 1. Leia um vetor inteiro de N posições;
-2. Exiba a soma total e quantos valores pares ele possui.
+2. Exiba a soma total e seus valores pares.
 */
 
 void main() {
